@@ -6,8 +6,6 @@ Job Junction is a web application built using the MERN stack (MongoDB, Express.j
 
 - [Features](#features)
 - [Technologies](#technologies)
-- [Installation](#installation)
-- [Environment Variables](#environment-variables)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Folder Structure](#folder-structure)
